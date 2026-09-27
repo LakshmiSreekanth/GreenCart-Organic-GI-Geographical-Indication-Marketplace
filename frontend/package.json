@@ -1,0 +1,6 @@
+{
+  "name": "greencart-frontend",
+  "version": "1.0.0",
+  "description": "GreenCart React Frontend (Pure React + HTML + CSS + JS, zero Vite)",
+  "private": true
+}
